@@ -1,0 +1,22 @@
+{
+  "name": "dark-plus-redux-even-darker",
+  "displayName": "dark-plus-redux-even-darker",
+  "description": "A redux of the Default Dark+... but even darker.",
+  "version": "0.0.1-alpha",
+  "publisher": "danharris",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark+ Redux: Even Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark+ Redux Even Darker-color-theme.json"
+      }
+    ]
+  }
+}
