@@ -1,0 +1,6 @@
+{
+  "editor.codeLens": false,
+  "editor.lightbulb.enabled": false,
+"scm.diffDecorations": "none",
+"typescript.validate.enable": false
+}

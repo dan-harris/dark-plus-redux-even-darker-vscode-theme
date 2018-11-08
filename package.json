@@ -1,9 +1,23 @@
 {
   "name": "dark-plus-redux-even-darker",
-  "displayName": "dark-plus-redux-even-darker",
-  "description": "A redux of the Default Dark+... but even darker.",
+  "displayName": "dark+ REDUX: Even Darker",
+  "icon": "logo.png",
+  "description": "A redux of the Default Dark+ theme... but even darker. Minimises editor chrome and emphasises content. Nothing but bright code 😎",
   "version": "0.0.1-alpha",
   "publisher": "danharris",
+  "homepage": "https://github.com/dan-harris/dark-plus-redux-even-darker-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/dan-harris/dark-plus-redux-even-darker-vscode-theme/issues",
+    "email": "me@danharris.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dan-harris/dark-plus-redux-even-darker-vscode-theme"
+  },
+  "galleryBanner": {
+    "color": "#404040",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.28.0"
   },
